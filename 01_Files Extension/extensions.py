@@ -1,5 +1,5 @@
 def main():
-    # Solicitar nome do ficheiro [não esquecer de utilizar a técnica case insensitive: input().strip().lower()]
+    # Solicitar nome do ficheiro ao utilizador [não esquecer de utilizar a técnica case insensitive: input().strip().lower()]
     file_name = input("File name: ").strip().lower()
 
     # Classificação do tipo de ficheiro e resposta correspondente
